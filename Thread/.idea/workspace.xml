@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2361e821-34a5-41dc-b240-8bd43b83a6f4" name="Default Changelist" comment="线程创建方式">
+      <change afterPath="$PROJECT_DIR$/../List/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../List/out/production/List/cn/wengzi/concurrent/ConcurrentList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringEncode/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../List/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../List/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/out/production/List/cn/wengzi/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../List/out/production/List/cn/wengzi/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/out/production/Map/cn/wengzi/map/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/out/production/Map/cn/wengzi/map/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/out/production/Map/cn/wengzi/map/TestCapacity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/out/production/Map/cn/wengzi/map/TestCapacity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/src/cn/wengzi/map/TestCapacity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/src/cn/wengzi/map/TestCapacity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringEncode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringEncode/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/wengzi/create/FirstThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/java/jdk/src.zip!/java/util/concurrent/Executors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://F:/java/jdk/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="528" column="29" selection-start-line="528" selection-start-column="29" selection-end-line="528" selection-end-column="29" />
+              <folding>
+                <element signature="docComment;class#ConcurrentHashMap#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/java/jdk/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="325" column="19" selection-start-line="325" selection-start-column="19" selection-end-line="325" selection-end-column="19" />
+              <folding>
+                <element signature="e#11364#11365#0" expanded="true" />
+                <element signature="e#11395#11396#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>t</find>
+      <find>f</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/wengzi/thread/extendscreate/Rabbit.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/SecondThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/FirstThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/isAlive.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/JoinThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/YieldThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/PriorityTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/pojo/Account.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test/TestDraw.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test/DrawThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test/Account.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test2/Account.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test2/DrawThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test2/TestDraw.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test1/DrawThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/Test3.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/Test3/Account.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/Test3/DrawThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test3/DrawThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test3/DepositThread.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test3/Account.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/test3/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/wengzi/create/FirstThread.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="y" value="30" />
+    <option name="width" value="1750" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectId" id="1Sb5lC5wqn8wR8ohyFVso5vrGRG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wengzi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/springboot-util-master/SpringBoot-Swagger2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.wengzi.thread" />
+      <recent name="cn.wengzi.thread.implementscreate" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java-util-master\Thread\lib" />
+      <recent name="D:\java-util-master\Thread" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="PriorityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wengzi.PriorityTest" />
+      <module name="Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wengzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wengzi.test3.Test" />
+      <module name="Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wengzi.test3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDraw (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wengzi.test2.TestDraw" />
+      <module name="Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wengzi.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wengzi.test1.TestDraw" />
+      <module name="Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wengzi.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YieldThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wengzi.YieldThread" />
+      <module name="Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wengzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestDraw (1)" />
+        <item itemvalue="Application.TestDraw" />
+        <item itemvalue="Application.PriorityTest" />
+        <item itemvalue="Application.YieldThread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2361e821-34a5-41dc-b240-8bd43b83a6f4" name="Default Changelist" comment="" />
+      <created>1570172500374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570172500374</updated>
+      <workItem from="1570172502365" duration="2915000" />
+      <workItem from="1570274510756" duration="15000" />
+      <workItem from="1570274543035" duration="704000" />
+      <workItem from="1570763485566" duration="628000" />
+      <workItem from="1571819782628" duration="11034000" />
+      <workItem from="1571846192634" duration="6744000" />
+      <workItem from="1571897432231" duration="4798000" />
+    </task>
+    <task id="LOCAL-00001" summary="Thread">
+      <created>1570195491495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570195491495</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Thread">
+      <created>1571898930702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571898930702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Thread">
+      <created>1571900443713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571900443713</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 48m 43s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 49m 47s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 51m 12s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 51m 29s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 51m 35s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 51m 41s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 52m 01s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 54m 00s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadTest_isAlive - 2019.10.23 at 18h 54m 19s.xml">
+      <configuration name="ThreadTest.isAlive" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26838000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.25670242" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.22206704" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4329609" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3282123" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.22206704" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4329609" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3282123" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/thread/extendscreate/Tortoise.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/thread/ThreadTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/thread/ThreadTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/thread/implementscreate/Rabbit.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/thread/implementscreate/Tortoise.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/thread/extendscreate/Rabbit.java" />
+    <entry file="file://$PROJECT_DIR$/doc/Thread.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/ThreadTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/isAlive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/java/jdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="509" column="11" selection-start-line="509" selection-start-column="11" selection-end-line="509" selection-end-column="11" />
+          <folding>
+            <element signature="e#17619#17620#0" expanded="true" />
+            <element signature="e#17660#17661#0" expanded="true" />
+            <element signature="e#19132#19133#0" expanded="true" />
+            <element signature="e#19175#19176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/create/SecondThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/YieldThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/PriorityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/JoinThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test1/TestDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test2/DrawThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/java/jdk/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test2/TestDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test1/DrawThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/Test3.java" />
+    <entry file="jar://F:/java/jdk/jre/lib/rt.jar!/com/sun/tracing/dtrace/ArgsAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test3/DepositThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test3/DrawThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="32" column="9" selection-start-line="28" selection-start-column="7" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/lombok-1.18.8.jar!/lombok/RequiredArgsConstructor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-715">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/test3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/wengzi/create/FirstThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/java/jdk/src.zip!/java/util/concurrent/ConcurrentNavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/java/jdk/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/java/jdk/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="325" column="19" selection-start-line="325" selection-start-column="19" selection-end-line="325" selection-end-column="19" />
+          <folding>
+            <element signature="e#11364#11365#0" expanded="true" />
+            <element signature="e#11395#11396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/java/jdk/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="528" column="29" selection-start-line="528" selection-start-column="29" selection-end-line="528" selection-end-column="29" />
+          <folding>
+            <element signature="docComment;class#ConcurrentHashMap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Thread</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
