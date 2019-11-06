@@ -1,6 +1,6 @@
-package cn.wengzi;
+package cn.wengzi.method;
 
-import cn.wengzi.create.FirstThread;
+import cn.wengzi.create.MyThread;
 
 /**
  * @author wengzi
@@ -8,7 +8,7 @@ import cn.wengzi.create.FirstThread;
  */
 public class isAlive {
     public static void main(String[] args) {
-        FirstThread firstThread = new FirstThread();
+        MyThread firstThread = new MyThread();
         int i = 0;
         int num = 300;
         for (; i < num; i++) {

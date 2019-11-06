@@ -1,4 +1,4 @@
-package cn.wengzi;
+package cn.wengzi.method;
 
 /**
  * @author wengzi

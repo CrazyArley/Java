@@ -6,7 +6,7 @@ package cn.wengzi.create;
  * @description 通过继承 Thread 类来实现线程
  * 使用继承 Thread 类的方法来创建线程,多条线程之间无法共享线程类的实例变量
  */
-public class FirstThread extends Thread {
+public class MyThread extends Thread {
 
 
     /**
@@ -37,9 +37,9 @@ public class FirstThread extends Thread {
             if (i == 20) {
 
                 //创建启动 第一条线程
-                new FirstThread().start();
+                new MyThread().start();
                 //创建启动 第二条线程
-                new FirstThread().start();
+                new MyThread().start();
             }
         }
     }

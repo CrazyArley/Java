@@ -6,7 +6,7 @@ package cn.wengzi.create;
  * @date 2019/10/23 下午17:49
  * @description 通过实现 Runnable 接口来实现线程
  */
-public class SecondThread implements Runnable {
+public class RunnableTask implements Runnable {
     @Override
     public void run() {
         int i = 0;
@@ -28,7 +28,7 @@ public class SecondThread implements Runnable {
             System.out.println(Thread.currentThread().getName() + "   " + i);
             if (i == 20) {
                 //主线程 main 方法
-                SecondThread secondThread = new SecondThread();
+                RunnableTask secondThread = new RunnableTask();
 
                 //通过 Thread(Target,name) 方法创建线程
                 new Thread(secondThread, "线程1").start();
