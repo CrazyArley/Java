@@ -8,7 +8,7 @@ package cn.wengzi;
 public enum SeasonEnum {
 
     /**
-     * 春夏秋冬
+     * 春夏秋冬,多个枚举之间使用 "," 分割
      */
     SPRING, SUMMER, FALL, WINTER;
 
