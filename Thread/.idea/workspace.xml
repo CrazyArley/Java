@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2361e821-34a5-41dc-b240-8bd43b83a6f4" name="Default Changelist" comment="线程创建方式">
-      <change afterPath="$PROJECT_DIR$/src/cn/wengzi/DeadLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/wengzi/ThreadBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/wengzi/create/CallerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/JoinThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/PriorityTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/YieldThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/create/FirstThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/create/SecondThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/isAlive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/JoinThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/wengzi/method/JoinThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/PriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/wengzi/method/PriorityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/YieldThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/wengzi/method/YieldThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/create/FirstThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/wengzi/create/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/create/SecondThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/wengzi/create/RunnableTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/isAlive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/wengzi/method/isAlive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/wengzi/test1/Account.java" afterDir="false" />
-    </list>
+    <list default="true" id="2361e821-34a5-41dc-b240-8bd43b83a6f4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,17 +91,6 @@
               <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
               <item name="Thread" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wengzi" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -132,7 +103,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/SpringCloud-Learning" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -255,7 +226,7 @@
       <workItem from="1571819782628" duration="11034000" />
       <workItem from="1571846192634" duration="6744000" />
       <workItem from="1571897432231" duration="4798000" />
-      <workItem from="1573031104131" duration="5807000" />
+      <workItem from="1573031104131" duration="6463000" />
     </task>
     <task id="LOCAL-00001" summary="Thread">
       <created>1570195491495</created>
@@ -278,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571900443713</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="多线程">
+      <created>1573046943188</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573046943188</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -311,7 +289,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32645000" />
+    <option name="totallyTimeSpent" value="33301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -384,7 +362,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread" />
+    <MESSAGE value="多线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/cn/wengzi/thread/extendscreate/Tortoise.java" />
