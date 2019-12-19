@@ -9,12 +9,18 @@ import java.io.*;
 import java.util.Date;
 import java.util.Properties;
 
+/**
+ * @author leizige
+ * @date 2019-12-19 night 23:00
+ * desc:发送邮件
+ */
 public class testMail {
     public static void main(String[] args) throws IOException, MessagingException {
 
         //1.创建一封邮件
         Properties properties = new Properties();   // 用于连接邮件服务器的参数配置（发送邮件时才需要用到）
         Session session = Session.getInstance(properties);   // 根据参数配置，创建会话对象（为了发送邮件准备的）
+        session.setDebug(true);        //开启邮件发送日志
         MimeMessage message = new MimeMessage(session); //创建邮件对象
 
         /**

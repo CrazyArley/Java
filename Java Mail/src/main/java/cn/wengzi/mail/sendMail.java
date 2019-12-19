@@ -6,7 +6,11 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import java.util.Date;
 import java.util.Properties;
-
+/**
+ * @author leizige
+ * @date 2019-12-19 night 23:00
+ * desc:发送邮件
+ */
 public class sendMail {
 
     // 发件人的 邮箱 和 密码（替换为自己的邮箱和密码）
