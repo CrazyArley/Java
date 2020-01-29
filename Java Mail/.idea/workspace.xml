@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52500db9-5d55-4513-aab0-e99eac04d048" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Java Mail.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +121,7 @@
       <updated>1565939471903</updated>
       <workItem from="1565939474566" duration="4338000" />
       <workItem from="1566176746615" duration="6254000" />
-      <workItem from="1576769932509" duration="118000" />
+      <workItem from="1576769932509" duration="969000" />
     </task>
     <servers />
   </component>
