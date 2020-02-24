@@ -1,4 +1,4 @@
-package me.arley.test1;
+package me.arley.synchrolock.test1;
 
 /**
  * @author wengzi

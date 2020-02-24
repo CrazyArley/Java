@@ -2,53 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2361e821-34a5-41dc-b240-8bd43b83a6f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/arley/threadlocal/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadLocal/src/me/arley/test/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadLocal/src/me/arley/xxxxx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/arley/create/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/arley/deadlock/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/arley/threadlocal/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/META-INF/Thread.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/DeadLockTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/DeadLockTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/DeadLockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/ThreadBreak$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/ThreadBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/create/CallerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/create/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/create/RunnableTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/method/JoinThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/method/PriorityTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/method/YieldThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/method/isAlive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test1/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test1/DrawThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test1/TestDraw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test2/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test2/DrawThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test2/TestDraw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test3/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test3/DepositThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test3/DrawThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/cn/wengzi/test3/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/DeadLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/DeadLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/ThreadBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/ThreadBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/create/CallerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/create/CallerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/create/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/create/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/create/RunnableTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/create/RunnableTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/method/JoinThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/method/JoinThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/method/PriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/method/PriorityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/method/YieldThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/method/YieldThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/method/isAlive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/method/isAlive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test1/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test1/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test1/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test1/TestDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test1/TestDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test2/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test2/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test2/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test2/TestDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test2/TestDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test3/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test3/DepositThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test3/DepositThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test3/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test3/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wengzi/test3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/test3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/DeadLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/deadlock/DeadLockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/ThreadBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/ThreadBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/method/JoinThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/method/PriorityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/method/YieldThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/method/isAlive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test1/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test1/DrawThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test1/TestDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test1/TestDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test2/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test2/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test2/DrawThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test2/TestDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test2/TestDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/DepositThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/DepositThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/DrawThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -92,7 +67,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -104,7 +79,7 @@
       <recent name="D:\java-util-master\Thread" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.isAlive">
+  <component name="RunManager" selected="Application.ThreadLocalTest">
     <configuration name="CallerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.wengzi.create.CallerTask" />
       <module name="Thread" />
@@ -131,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.wengzi.test3.Test" />
+    <configuration name="ThreadBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wengzi.ThreadBreak" />
       <module name="Thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.wengzi.test3.*" />
+          <option name="PATTERN" value="cn.wengzi.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.wengzi.ThreadBreak" />
+    <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.arley.threadlocal.ThreadLocalTest" />
       <module name="Thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.wengzi.method.*" />
+          <option name="PATTERN" value="me.arley.threadlocal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLocalTest" />
         <item itemvalue="Application.isAlive" />
         <item itemvalue="Application.DeadLockTest" />
         <item itemvalue="Application.ThreadBreak" />
         <item itemvalue="Application.CallerTask" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +177,8 @@
       <workItem from="1582286280277" duration="27000" />
       <workItem from="1582518222486" duration="1592000" />
       <workItem from="1582532083350" duration="247000" />
+      <workItem from="1582532482844" duration="726000" />
+      <workItem from="1582533261616" duration="940000" />
     </task>
     <task id="LOCAL-00001" summary="Thread">
       <created>1570195491495</created>
@@ -303,22 +280,50 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582532111174" />
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom" timestamp="1582532330257">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1582533209461">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582532330257" />
-    <state width="1493" height="288" key="GridCell.Tab.0.center" timestamp="1582532330257">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1582533209461">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582532330257" />
-    <state width="1493" height="288" key="GridCell.Tab.0.left" timestamp="1582532330257">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1582533209461">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582532330257" />
-    <state width="1493" height="288" key="GridCell.Tab.0.right" timestamp="1582532330257">
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1582533209461">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582532330257" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1582533209461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1582533209461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1582533209461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1582533209461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1582533209461" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1582533362334">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1582533362334" />
+    <state x="93" y="93" width="1350" height="648" key="dock-window-1" timestamp="1582533872952">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1582533872952" />
+    <state x="431" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1582533824764">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1582533824764" />
   </component>
   <component name="masterDetails">
     <states>

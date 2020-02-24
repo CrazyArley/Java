@@ -1,4 +1,4 @@
-package me.arley;
+package me.arley.deadlock;
 
 /**
  * @author wengzi

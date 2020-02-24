@@ -1,6 +1,5 @@
-package me.arley.test3;
+package me.arley.synchrolock.test3;
 
-import com.sun.tracing.dtrace.ArgsAttributes;
 import lombok.*;
 
 /**

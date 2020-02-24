@@ -7,13 +7,10 @@ package me.arley;
  */
 public class ThreadBreak extends Thread {
     public static void main(String[] args) {
-        Thread thread = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                /* 当前线程中断则退出循环 */
-                while (!Thread.currentThread().isInterrupted()) {
-                    System.out.println(Thread.currentThread() + "Hello");
-                }
+        Thread thread = new Thread(() -> {
+            /* 当前线程中断则退出循环 */
+            while (!Thread.currentThread().isInterrupted()) {
+                System.out.println(Thread.currentThread() + "Hello");
             }
         });
 
