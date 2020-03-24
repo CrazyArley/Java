@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2361e821-34a5-41dc-b240-8bd43b83a6f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/arley/create/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/arley/deadlock/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/arley/threadlocal/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/DeadLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/deadlock/DeadLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/ThreadBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/ThreadBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/method/JoinThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/method/PriorityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/method/YieldThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/method/isAlive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test1/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test1/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test1/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test1/TestDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test1/TestDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test2/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test2/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test2/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test2/TestDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test2/TestDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/DepositThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/DepositThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/arley/test3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/arley/synchrolock/test3/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ThreadLocal" />
+    <property name="last_opened_file_path" value="D:/bop/bitsun-bop-platform-center" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -178,7 +158,7 @@
       <workItem from="1582518222486" duration="1592000" />
       <workItem from="1582532083350" duration="247000" />
       <workItem from="1582532482844" duration="726000" />
-      <workItem from="1582533261616" duration="940000" />
+      <workItem from="1582533261616" duration="1767000" />
     </task>
     <task id="LOCAL-00001" summary="Thread">
       <created>1570195491495</created>
@@ -276,10 +256,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="多线程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1582532111174">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1582535571077">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582532111174" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582535571077" />
     <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1582533209461">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
