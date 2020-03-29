@@ -1,4 +1,4 @@
-package me.arley.create;
+package cn.wengzi.create;
 
 /**
  * @author wengzi

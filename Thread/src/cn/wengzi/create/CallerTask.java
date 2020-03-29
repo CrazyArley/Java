@@ -1,4 +1,4 @@
-package me.arley.create;
+package cn.wengzi.create;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

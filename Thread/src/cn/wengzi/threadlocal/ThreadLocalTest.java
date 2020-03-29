@@ -1,4 +1,4 @@
-package me.arley.threadlocal;
+package cn.wengzi.threadlocal;
 
 /**
  * @author Arley

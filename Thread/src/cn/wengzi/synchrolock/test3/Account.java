@@ -1,4 +1,4 @@
-package me.arley.synchrolock.test3;
+package cn.wengzi.synchrolock.test3;
 
 import lombok.*;
 

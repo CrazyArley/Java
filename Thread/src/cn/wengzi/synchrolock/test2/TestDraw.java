@@ -1,8 +1,8 @@
-package me.arley.synchrolock.test1;
+package cn.wengzi.synchrolock.test2;
 
 /**
  * @author wengzi
- * @date 2019/10/23 night 23:40
+ * @date 2019/10/24 afternoon 13:33
  */
 public class TestDraw {
     public static void main(String[] args) {
